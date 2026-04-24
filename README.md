@@ -24,7 +24,11 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 ## Como a pipeline funciona
 > **Substitua este bloco pela sua explicação após implementar a pipeline.**
 > Descreva cada step, o que ele faz e por que ele é importante para a segurança.
+>
+> Esse repositório foi desenvolvido como parte do Curso de DevSecOps.
+> Agradeço o Instrutor por tornar nosso curso leve e dinâmico.
+> Grata por nós proporcionar esse conhecimento que é muito enriquecedor ao nosso curriculo e experiência proporcionada a todos.
+> Obrigada por tudo.
 
 ## URL de Produção
-> <img width="593" height="196" alt="image" src="https://github.com/user-attachments/assets/38e69c23-95b0-497e-a3f9-60514688f32e" />
-.
+> https://emiriameing.github.io/projeto-devsecops-desafio/.
