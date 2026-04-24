@@ -26,4 +26,5 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 > Descreva cada step, o que ele faz e por que ele é importante para a segurança.
 
 ## URL de Produção
-> Adicione aqui o link do GitHub Pages após o deploy.
+> <img width="593" height="196" alt="image" src="https://github.com/user-attachments/assets/38e69c23-95b0-497e-a3f9-60514688f32e" />
+.
